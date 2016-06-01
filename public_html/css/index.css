@@ -752,7 +752,6 @@
 	position: relative;
 	margin-right: -10000px;
 	width: 27.2%;
-        cursor: pointer;
 }
 
 #buttonu1750:hover
@@ -778,7 +777,6 @@
 	margin-top: 6px;
 	width: 86.67%;
 	left: 6.67%;
-        cursor: pointer;
 }
 
 #buttonu1750:hover #u1751-4
@@ -807,7 +805,6 @@
 	margin-right: -10000px;
 	width: 27.2%;
 	left: 72.81%;
-        cursor: pointer;
 }
 
 #buttonu1750.ButtonSelected,#buttonu1744:hover
@@ -833,7 +830,6 @@
 	margin-top: 6px;
 	width: 86.67%;
 	left: 6.67%;
-        cursor: pointer;
 }
 
 #buttonu1744:hover #u1745-4
@@ -918,7 +914,6 @@
 	margin-right: -10000px;
 	margin-top: 1px;
 	width: 27.2%;
-        cursor: pointer;
 }
 
 #buttonu1756:hover
@@ -951,7 +946,6 @@
 	margin-top: 6px;
 	width: 86.67%;
 	left: 6.67%;
-        cursor: pointer;
 }
 
 #buttonu1756:hover #u1757-4
@@ -980,7 +974,6 @@
 	margin-right: -10000px;
 	width: 27.2%;
 	left: 72.81%;
-        cursor: pointer;
 }
 
 #buttonu1744.ButtonSelected,#buttonu1720:hover
@@ -1013,7 +1006,6 @@
 	margin-top: 6px;
 	width: 86.67%;
 	left: 6.67%;
-        cursor: pointer;
 }
 
 #buttonu1720:hover #u1721-4
@@ -1123,7 +1115,6 @@
 	position: relative;
 	width: 39.83%;
 	margin-left: 20.8%;
-        cursor: pointer;
 }
 
 #buttonu1738:hover
@@ -1149,7 +1140,6 @@
 	margin-top: 6px;
 	width: 86.67%;
 	left: 6.67%;
-        cursor: pointer;
 }
 
 #buttonu1738:hover #u1739-4
@@ -1193,7 +1183,6 @@
 	position: relative;
 	width: 39.83%;
 	margin-left: 20.8%;
-        cursor: pointer;
 }
 
 #buttonu1738.ButtonSelected,#buttonu1726:hover
@@ -1226,7 +1215,6 @@
 	margin-top: 6px;
 	width: 86.67%;
 	left: 6.67%;
-        cursor: pointer;
 }
 
 #buttonu1726:hover #u1727-4
