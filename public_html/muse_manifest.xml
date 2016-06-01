@@ -1,0 +1,21 @@
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="elaquefaz.com.br" resolutions="1x" timestamp="1464747099912">
+  <folder name="css">
+    <file name="site_global.css" crc="131700929"/>
+    <file name="master_a-mestre.css" crc="310364715" ref="index"/>
+    <file name="index.css" crc="4017819249" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index"/>
+    <file name="museutils.js" crc="3790713428" ref="index"/>
+    <file name="whatinput.js" crc="84559013" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.musemenu.js" crc="238543590" ref="index"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="ela_que_faz_logo-u107.png" crc="227159702" ref="index"/>
+    <file name="carrinho-compras-u248.png" crc="414934557" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3865767146" seo="true" mt="1464747074332" redirect="true"/>
+</manifest>
