@@ -1,0 +1,174 @@
+.version.confirma_compra /* version checker */
+{
+	color: #0000F3;
+	background-color: #83B5C4;
+}
+
+#muse_css_mq
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 488px;
+	min-height: 389px;
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: #F7CECC;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 9px 236px 102px;
+}
+
+#u4835
+{
+	z-index: 2;
+	width: 237px;
+	background-color: transparent;
+	margin-left: 126px;
+	position: relative;
+}
+
+#u4844-4
+{
+	z-index: 4;
+	width: 488px;
+	min-height: 48px;
+	background-color: transparent;
+	color: #FF008F;
+	line-height: 43px;
+	font-size: 36px;
+	font-family: Times, Times New Roman, Georgia, serif;
+	margin-top: 15px;
+	position: relative;
+}
+
+#u4847-4
+{
+	z-index: 8;
+	width: 402px;
+	min-height: 62px;
+	background-color: transparent;
+	color: #FF008F;
+	line-height: 29px;
+	text-align: left;
+	font-size: 24px;
+	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
+	margin-left: 43px;
+	margin-top: 41px;
+	position: relative;
+}
+
+#pu4869
+{
+	width: 0.01px;
+	margin-left: 133px;
+	margin-top: 40px;
+}
+
+#u4869
+{
+	z-index: 12;
+	width: 84px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u4853
+{
+	z-index: 13;
+	width: 84px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u4856-4
+{
+	z-index: 14;
+	width: 44px;
+	min-height: 23px;
+	background-color: transparent;
+	color: #00CD00;
+	line-height: 24px;
+	font-size: 20px;
+	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 8px;
+	left: 1px;
+}
+
+#u4859
+{
+	z-index: 18;
+	width: 40px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 44px;
+}
+
+#u4888
+{
+	z-index: 20;
+	width: 84px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 132px;
+}
+
+#u4882
+{
+	z-index: 21;
+	width: 84px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u4885-4
+{
+	z-index: 24;
+	width: 44px;
+	min-height: 23px;
+	background-color: transparent;
+	color: #D60000;
+	line-height: 24px;
+	font-size: 20px;
+	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 8px;
+}
+
+#u4872
+{
+	z-index: 22;
+	width: 40px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 45px;
+}
+
+.html
+{
+	background-color: #F7A3CC;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+}
+

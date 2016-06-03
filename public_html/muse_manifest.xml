@@ -1,27 +1,46 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="elaquefaz.com.br" resolutions="1x" timestamp="1464757844952">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="elaquefaz.com.br" resolutions="1x" timestamp="1464963604091">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
-    <file name="master_a-mestre.css" crc="4096516534" ref="index"/>
-    <file name="index.css" crc="11745721" ref="index"/>
+    <file name="master_a-mestre.css" crc="209040713" ref="index"/>
+    <file name="index.css" crc="3870583235" ref="index"/>
+    <file name="login.css" crc="3831538035" ref="login"/>
+    <file name="ofertas_do_dia.css" crc="3909923890" ref="ofertas_do_dia"/>
+    <file name="cadastro.css" crc="4276208504" ref="cadastro"/>
+    <file name="confirma_compra.css" crc="4085495236" ref="confirma_compra"/>
+    <file name="compra_confirmada.css" crc="491372684" ref="compra_confirmada"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index"/>
-    <file name="museutils.js" crc="3790713428" ref="index"/>
-    <file name="whatinput.js" crc="84559013" ref="index"/>
-    <file name="pie.js" crc="3827607177" ref="index"/>
-    <file name="jquery.musemenu.js" crc="238543590" ref="index"/>
-    <file name="jquery.watch.js" crc="4244854265" ref="index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:ofertas_do_dia:login:cadastro:confirma_compra:compra_confirmada"/>
+    <file name="museutils.js" crc="3790713428" ref="index:ofertas_do_dia:login:cadastro:confirma_compra:compra_confirmada"/>
+    <file name="whatinput.js" crc="84559013" ref="index:ofertas_do_dia:login:cadastro:confirma_compra:compra_confirmada"/>
+    <file name="pie.js" crc="3827607177" ref="index:ofertas_do_dia:login"/>
+    <file name="jquery.musemenu.js" crc="238543590" ref="index:ofertas_do_dia"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3918880840" ref="index"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="index:ofertas_do_dia:login:cadastro:confirma_compra:compra_confirmada"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:ofertas_do_dia:cadastro:confirma_compra:compra_confirmada"/>
   </folder>
   <folder name="images">
-    <file name="ela_que_faz_logo-u107.png" crc="227159702" ref="index"/>
-    <file name="carrinho-compras-u248.png" crc="414934557" ref="index"/>
-    <file name="img-20160518-wa0003.jpg" crc="221731529" seo="true" ref="index"/>
-    <file name="img-20160508-wa0005.jpg" crc="3866712249" seo="true" ref="index"/>
-    <file name="img-20160328-wa0021.jpg" crc="3761767704" seo="true" ref="index"/>
-    <file name="13173977_1139180036113121_4394033747684770016_n.jpg" crc="4205674014" seo="true" ref="index"/>
-    <file name="13221115_1139178756113249_5610497288828973350_n.jpg" crc="3912266776" seo="true" ref="index"/>
-    <file name="13239428_1139999456031179_2057883202565985589_n.jpg" crc="4054496080" seo="true" ref="index"/>
+    <file name="bt_oferta-1-camada 0.png" crc="4160272060" ref="index"/>
+    <file name="bt_oferta-1-bt_oferta-2.png" crc="206244706" ref="index"/>
+    <file name="bt_oferta-1-bt_oferta-3.png" crc="4146407204" ref="index"/>
+    <file name="bt_oferta-1-bt_oferta-4.png" crc="513927096" ref="index"/>
+    <file name="img-20160508-wa0005.jpg" crc="3866712249" seo="true" ref="index:ofertas_do_dia"/>
+    <file name="img-20160518-wa0003.jpg" crc="221731529" seo="true" ref="index:ofertas_do_dia"/>
+    <file name="13221115_1139178756113249_5610497288828973350_n.jpg" crc="3912266776" seo="true" ref="index:ofertas_do_dia"/>
+    <file name="img-20160328-wa0021.jpg" crc="3761767704" seo="true" ref="index:ofertas_do_dia"/>
+    <file name="13173977_1139180036113121_4394033747684770016_n.jpg" crc="4205674014" seo="true" ref="index:ofertas_do_dia"/>
+    <file name="13239428_1139999456031179_2057883202565985589_n.jpg" crc="4054496080" seo="true" ref="index:ofertas_do_dia"/>
+    <file name="facebook.png" crc="3961275897" seo="true" ref="index:ofertas_do_dia"/>
+    <file name="twitter.png" crc="4257591593" seo="true" ref="index:ofertas_do_dia"/>
+    <file name="googleplus.png" crc="86688014" seo="true" ref="index:ofertas_do_dia"/>
+    <file name="ela_que_faz_logo.png" crc="439790623" seo="true" ref="login:cadastro:ofertas_do_dia:index:confirma_compra:compra_confirmada"/>
+    <file name="confirmar.png" crc="502178090" seo="true" ref="confirma_compra"/>
+    <file name="cancelar.png" crc="4187877051" seo="true" ref="confirma_compra"/>
   </folder>
-  <file name="index.html" crc="105832373" seo="true" mt="1464757817807" redirect="true"/>
+  <file name="index.html" crc="488055038" seo="true" mt="1464961516653" redirect="true"/>
+  <file name="ofertas_do_dia.html" crc="366229740" seo="true" mt="1464963503114" redirect="true"/>
+  <file name="login.html" crc="222107930" seo="true" mt="1464957134030" redirect="true"/>
+  <file name="cadastro.html" crc="117960648" seo="true" mt="1464960413704" redirect="true"/>
+  <file name="confirma_compra.html" crc="65418342" seo="true" mt="1464963103696" redirect="true"/>
+  <file name="compra_confirmada.html" crc="3956628448" seo="true" mt="1464963322861" redirect="true"/>
 </manifest>

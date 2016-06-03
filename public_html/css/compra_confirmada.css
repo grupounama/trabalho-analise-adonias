@@ -1,0 +1,89 @@
+.version.compra_confirmada /* version checker */
+{
+	color: #00001D;
+	background-color: #49C08C;
+}
+
+#muse_css_mq
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 519px;
+	min-height: 386.8000000000001px;
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: #F7CECC;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 20px 221px 93.19999999999987px 220px;
+}
+
+#u4903
+{
+	z-index: 2;
+	width: 266px;
+	background-color: transparent;
+	margin-left: 127px;
+	position: relative;
+}
+
+#u4910-4
+{
+	z-index: 4;
+	width: 519px;
+	min-height: 44px;
+	background-color: transparent;
+	color: #FF008F;
+	line-height: 43px;
+	font-size: 36px;
+	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
+	margin-top: 36px;
+	position: relative;
+}
+
+#u4915-4
+{
+	z-index: 8;
+	width: 162px;
+	min-height: 28px;
+	background-color: transparent;
+	color: #F83FA7;
+	line-height: 18px;
+	font-size: 15px;
+	font-family: roboto-condensed, sans-serif;
+	font-weight: 400;
+	margin-left: 179px;
+	margin-top: 118px;
+	position: relative;
+}
+
+#u4915-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 28px;
+	width: 162px;
+	margin: 118px 0px 0px 179px;
+}
+
+#u4915-4:hover p
+{
+	text-decoration: underline;
+}
+
+.html
+{
+	background-color: #F7A3CC;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+}
+

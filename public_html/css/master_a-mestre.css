@@ -1,8 +1,8 @@
 #u117-4
 {
 	background-color: transparent;
-	line-height: 14px;
 	color: #F81296;
+	line-height: 14px;
 	font-size: 12px;
 	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
 	font-weight: bold;
@@ -197,13 +197,6 @@
 	cursor: pointer;
 }
 
-#menuu498,#menuu124
-{
-	border-width: 0px;
-	border-color: transparent;
-	background-color: transparent;
-}
-
 #u126
 {
 	background-color: transparent;
@@ -226,10 +219,10 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 19px;
 	color: #F83B96;
-	font-size: 16px;
+	line-height: 19px;
 	text-align: center;
+	font-size: 16px;
 	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
 	font-weight: bold;
 }
@@ -256,10 +249,10 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 19px;
 	color: #F83B96;
-	font-size: 16px;
+	line-height: 19px;
 	text-align: center;
+	font-size: 16px;
 	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
 	font-weight: bold;
 }
@@ -286,10 +279,10 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 19px;
 	color: #F83B96;
-	font-size: 16px;
+	line-height: 19px;
 	text-align: center;
+	font-size: 16px;
 	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
 	font-weight: bold;
 }
@@ -321,12 +314,36 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 19px;
 	color: #F83B96;
-	font-size: 16px;
+	line-height: 19px;
 	text-align: center;
+	font-size: 16px;
 	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
 	font-weight: bold;
+}
+
+#u1891
+{
+	background: transparent url("../images/bt_oferta-1-camada%200.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u1891:hover
+{
+	background: transparent url("../images/bt_oferta-1-bt_oferta-2.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u1891:active
+{
+	background: transparent url("../images/bt_oferta-1-bt_oferta-3.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u1891.MuseLinkActive
+{
+	background: transparent url("../images/bt_oferta-1-bt_oferta-4.png") no-repeat left top;
+	background-size: contain;
 }
 
 #buttonu1750
@@ -352,10 +369,11 @@
 #u1751-4
 {
 	background-color: transparent;
-	letter-spacing: 1px;
 	color: #FFFFFF;
-	font-size: 14px;
 	text-align: center;
+	font-size: 13px;
+	line-height: 16px;
+	letter-spacing: 1px;
 	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
 	font-weight: normal;
 }
@@ -407,10 +425,11 @@
 #u1745-4
 {
 	background-color: transparent;
-	letter-spacing: 1px;
 	color: #FFFFFF;
-	font-size: 14px;
 	text-align: center;
+	font-size: 13px;
+	line-height: 16px;
+	letter-spacing: 1px;
 	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
 	font-weight: normal;
 }
@@ -439,6 +458,81 @@
 	visibility: inherit;
 }
 
+#buttonu1738
+{
+	border-color: #787878;
+	background-color: #F2679E;
+	border-radius: 10px;
+}
+
+#buttonu1738:hover
+{
+	border-color: #787878;
+	background-color: #F2679E;
+}
+
+#buttonu1738:active
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #D4145A;
+}
+
+#u1739-4
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	text-align: center;
+	font-size: 13px;
+	line-height: 16px;
+	letter-spacing: 1px;
+	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
+	font-weight: normal;
+}
+
+#buttonu1738:hover #u1739-4
+{
+	border-width: 0px;
+	border-color: #000000;
+}
+
+#buttonu1738:active #u1739-4
+{
+	border-width: 0px;
+	border-color: #000000;
+}
+
+#buttonu1738:hover #u1739-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#buttonu1738:active #u1739-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u684,#u703,#u742,#u713,#u726,#u755
+{
+	background-color: transparent;
+	border-radius: 10px 0px 10px 0px ;
+}
+
+#u783-9,#u789-9,#u792-9,#u786-9,#u795-9,#u798-9
+{
+	background-color: transparent;
+	font-size: 13px;
+	line-height: 16px;
+	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
+}
+
+#u783-2,#u783-5,#u789-2,#u789-5,#u792-2,#u792-5,#u786-2,#u786-5,#u795-2,#u795-5,#u798-2,#u798-5
+{
+	color: #FF0000;
+}
+
 #buttonu1756
 {
 	border-color: #787878;
@@ -462,10 +556,11 @@
 #u1757-4
 {
 	background-color: transparent;
-	letter-spacing: 1px;
 	color: #FFFFFF;
-	font-size: 14px;
 	text-align: center;
+	font-size: 13px;
+	line-height: 16px;
+	letter-spacing: 1px;
 	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
 	font-weight: normal;
 }
@@ -517,10 +612,11 @@
 #u1721-4
 {
 	background-color: transparent;
-	letter-spacing: 1px;
 	color: #FFFFFF;
-	font-size: 14px;
 	text-align: center;
+	font-size: 13px;
+	line-height: 16px;
+	letter-spacing: 1px;
 	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
 	font-weight: normal;
 }
@@ -549,104 +645,6 @@
 	visibility: inherit;
 }
 
-#u239-6,#u242-6
-{
-	background-color: transparent;
-	line-height: 18px;
-	color: #F83B96;
-	font-size: 15px;
-	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
-	font-weight: bold;
-}
-
-#u107,#u248
-{
-	display: block;
-	vertical-align: top;
-}
-
-#u258-4
-{
-	background-color: transparent;
-	color: #F83B96;
-	font-size: 14px;
-	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
-	font-weight: bold;
-}
-
-#buttonu1738
-{
-	border-color: #787878;
-	background-color: #F2679E;
-	border-radius: 10px;
-}
-
-#buttonu1738:hover
-{
-	border-color: #787878;
-	background-color: #F2679E;
-}
-
-#buttonu1738:active
-{
-	border-width: 0px;
-	border-color: transparent;
-	background-color: #D4145A;
-}
-
-#u1739-4
-{
-	background-color: transparent;
-	letter-spacing: 1px;
-	color: #FFFFFF;
-	font-size: 14px;
-	text-align: center;
-	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
-	font-weight: normal;
-}
-
-#buttonu1738:hover #u1739-4
-{
-	border-width: 0px;
-	border-color: #000000;
-}
-
-#buttonu1738:active #u1739-4
-{
-	border-width: 0px;
-	border-color: #000000;
-}
-
-#buttonu1738:hover #u1739-4 p
-{
-	color: #FFFFFF;
-	visibility: inherit;
-}
-
-#buttonu1738:active #u1739-4 p
-{
-	color: #FFFFFF;
-	visibility: inherit;
-}
-
-#u520,#u506,#u513,#u499,#u585,#u606,#u125,#u170,#u191,#u212,#u684,#u703,#u713,#u726,#u742,#u755
-{
-	background-color: transparent;
-}
-
-#u783-9,#u789-9,#u786-9,#u795-9,#u792-9,#u798-9
-{
-	background-color: transparent;
-	font-size: 13px;
-	line-height: 16px;
-	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
-}
-
-#u783-2,#u783-5,#u789-2,#u789-5,#u786-2,#u786-5,#u795-2,#u795-5,#u792-2,#u792-5,#u798-2,#u798-5
-{
-	color: #FF0000;
-}
-
 #buttonu1726
 {
 	border-color: #787878;
@@ -667,7 +665,7 @@
 	background-color: #D4145A;
 }
 
-#buttonu1750.ButtonSelected,#buttonu1744.ButtonSelected,#buttonu1756.ButtonSelected,#buttonu1720.ButtonSelected,#buttonu1738.ButtonSelected,#buttonu1726.ButtonSelected
+#buttonu1750.ButtonSelected,#buttonu1744.ButtonSelected,#buttonu1738.ButtonSelected,#buttonu1756.ButtonSelected,#buttonu1720.ButtonSelected,#buttonu1726.ButtonSelected
 {
 	border-width: 0px;
 	border-color: transparent;
@@ -677,10 +675,11 @@
 #u1727-4
 {
 	background-color: transparent;
-	letter-spacing: 1px;
 	color: #FFFFFF;
-	font-size: 14px;
 	text-align: center;
+	font-size: 13px;
+	line-height: 16px;
+	letter-spacing: 1px;
 	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
 	font-weight: normal;
 }
@@ -697,7 +696,7 @@
 	border-color: #000000;
 }
 
-#buttonu1750.ButtonSelected #u1751-4,#buttonu1744.ButtonSelected #u1745-4,#buttonu1756.ButtonSelected #u1757-4,#buttonu1720.ButtonSelected #u1721-4,#buttonu1738.ButtonSelected #u1739-4,#buttonu1726.ButtonSelected #u1727-4
+#buttonu1750.ButtonSelected #u1751-4,#buttonu1744.ButtonSelected #u1745-4,#buttonu1738.ButtonSelected #u1739-4,#buttonu1756.ButtonSelected #u1757-4,#buttonu1720.ButtonSelected #u1721-4,#buttonu1726.ButtonSelected #u1727-4
 {
 	border-style: solid;
 	border-width: 1px;
@@ -714,6 +713,33 @@
 {
 	color: #FFFFFF;
 	visibility: inherit;
+}
+
+#u1927
+{
+	background-color: #F777B3;
+}
+
+#u2528-4
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	line-height: 22px;
+	text-align: left;
+	font-size: 18px;
+	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
+}
+
+#menuu498,#menuu124,#u2504,#u2508,#u2532
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u107,#u520,#u506,#u513,#u499,#u585,#u606,#u125,#u170,#u191,#u212,#u1930,#u1940,#u1950
+{
+	background-color: transparent;
 }
 
 
